@@ -31,6 +31,13 @@ A reusable strategic planning and execution system (the Master Plan sitting abov
 the Growth Plan), being built into a tool for the EAG app.
 - `Strategy/` (see its README and `decisions/`).
 
+## External media and press
+Where Simon appears beyond his own channels. A framework placeholder, to populate
+when Simon loads the detail (including his media kit).
+- Media features and mentions: (to add).
+- Guest appearances on other podcasts: (to add).
+- Media kit: (to add, Simon to supply).
+
 ## Frameworks and IP worth noting
 - The Master Plan: growth and exit as one coin, the freeway metaphor, the five
   buckets. See `Strategy/model/master-plan.md`.
