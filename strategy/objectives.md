@@ -19,6 +19,17 @@ The advocacy for an SBA-style acquisition loan guarantee, paired with a successi
 
 Simon's personal aim within it is to be recognised as the driving force and convenor behind the agenda, and to build the relationships and profile that follow from leading a credible, national policy conversation.
 
+## Exit Like an Expert (the book)
+
+Simon's book, and his primary authority asset. It is the main call to action across all EAG and Buy Grow Sell content, and the credential behind his standing on business succession and ownership transition.
+
+What it does for Simon's objectives:
+
+- It is the authority engine. It establishes him as a recognised voice on succession and ownership transition, the positioning set out above, and it is the credential the AIBB Chair role already leans on.
+- It is the top of the funnel. As the primary call to action across EAG and Buy Grow Sell, it is where most people first enter his world, ahead of any tool or conversation.
+- It is compounding IP. Chapter 4's five drivers are the framework the Owner's Map is built on, so the book and the tool now reinforce each other. It also feeds the wider toolset, the Sweet Spot Matrix, the Negotiation Matrix and the Three-Circle Model.
+- It scales his reach beyond his time. It carries his thinking and his name into rooms he is not in, which is what compounds profile and authority.
+
 ## The Owner's Map (productised IP)
 
 EAG's owner-planning tool, a scored assessment that produces the MAP Score. The model is complete and the build spec is ready for Tom to build inside the valuation app. The institutional record, the model, scoring and build spec, lives in the Strategy repository.
