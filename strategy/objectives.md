@@ -19,6 +19,8 @@ The advocacy for an SBA-style acquisition loan guarantee, paired with a successi
 
 Simon's personal aim within it is to be recognised as the driving force and convenor behind the agenda, and to build the relationships and profile that follow from leading a credible, national policy conversation.
 
+The personal angle, the profile and the network being built, is tracked in `strategy/advocacy-positioning.md`. The institutional record lives in the AIBB repository under `advocacy/`.
+
 ## Exit Like an Expert (the book)
 
 Simon's book, and his primary authority asset. It is the main call to action across all EAG and Buy Grow Sell content, and the credential behind his standing on business succession and ownership transition.
